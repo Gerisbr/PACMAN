@@ -7,14 +7,10 @@ Visite http://pacman.platzh1rsch.ch para vê-lo ao vivo.
 Sounds from 
 http://soundfxcenter.com/ and http://soundfxnow.com/
 
-If you like this project, feel free to buy me a coffee:
-
-<a href="https://www.buymeacoffee.com/platzh1rsch" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-
+Se você gosta deste projeto, sinta-se à vontade para me comprar um café:
 ------
 
-License
+Licença
 =======
 
 Sinta-se à vontade para usar/copiar/modificar meu código, desde que você compartilhe novamente sua versão e dê algum crédito ao autor original (eu).
@@ -22,18 +18,18 @@ Sinta-se à vontade para usar/copiar/modificar meu código, desde que você comp
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Pacman Canvas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://platzh1rsch.ch" property="cc:attributionName" rel="cc:attributionURL">Platzh1rsch</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/platzhersh/pacman-canvas" rel="dct:source">https://github.com/platzhersh/pacman-canvas</a>.
 
 
-Get started
+iniciar
 ===========
 
-To just run the game locally, run `npm start`.
-If you want to see the console logs in your browser, use the `npm run start:dev` instead.
+Para executar o jogo localmente, execute `npm start`.
+Se você quiser ver os logs do console em seu navegador, use o comando `npm run start:dev`.
 
-To modify the game for your needs, look at the `pacman-canvas.js` file and make your modifications.
-To change the look and feel, edit the `pacman-canvas.css` file or also the `index.htm`file, where everything comes together.
+Para modificar o jogo para suas necessidades, veja o arquivo `pacman-canvas.js` e faça suas modificações.
+Para mudar a aparência, edite o arquivo `pacman-canvas.css` ou também o arquivo `index.htm`, onde tudo se junta.
 
 ------
 
-Version history
+Histórico de versões
 ===============
 
 *Version 1.0.5 - 22.03.2021*
